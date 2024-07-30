@@ -3,7 +3,7 @@
 
 // Minimum and maximum jump distance thresholds
 const float MIN_JUMP_DISTANCE = 240.0;
-const float MAX_JUMP_DISTANCE = 290.0; // What's te maximum LJ? Lol, gotta check.
+const float MAX_JUMP_DISTANCE = 285.0; // 
 
 public void OnPluginStart()
 {
